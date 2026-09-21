@@ -25,6 +25,6 @@ Make sure you have [Rust](https://www.rust-lang.org/tools/install) and Cargo ins
 
 ```bash
 git clone https://github.com/iqbalhrasel/echo-rs.git
-cd echo
+cd echo-rs
 cargo build --release
 ```
